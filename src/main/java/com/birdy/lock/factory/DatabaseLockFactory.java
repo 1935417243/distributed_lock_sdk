@@ -10,7 +10,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * 分布式锁工厂类
  *
- * @Author 115998
+ * @Author birdy
  * @Date 2024/10/29 20:20
  */
 public class DatabaseLockFactory {

@@ -3,7 +3,7 @@ package com.birdy.lock.factory.service;
 import com.birdy.lock.enums.LockType;
 
 /**
- * @Author 115998
+ * @Author birdy
  * @Date 2024/10/29 20:21
  */
 public interface DatabaseLockService {

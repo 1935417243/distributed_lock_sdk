@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
 /**
  * 自定义注解，用于标识分布式锁的key
  *
- * @Author 115998
+ * @Author birdy
  * @Date 2024/10/28 16:44
  */
 @Target(ElementType.METHOD)

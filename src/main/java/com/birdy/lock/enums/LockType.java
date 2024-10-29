@@ -3,7 +3,7 @@ package com.birdy.lock.enums;
 /**
  * 锁类型
  *
- * @Author 115998
+ * @Author birdy
  * @Date 2024/10/23 17:21
  */
 public enum LockType {

@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 /**
  * mysql 数据库锁实现
  *
- * @Author 115998
+ * @Author birdy
  * @Date 2024/10/29 20:23
  */
 @Service

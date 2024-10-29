@@ -6,7 +6,7 @@ import com.birdy.lock.factory.service.DatabaseLockService;
 /**
  * redis 分布式锁
  *
- * @Author 115998
+ * @Author birdy
  * @Date 2024/10/29 20:27
  */
 public class RedisDatabaseLockService implements DatabaseLockService {
